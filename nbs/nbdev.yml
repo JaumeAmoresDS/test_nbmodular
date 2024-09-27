@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_nbmodular"
+  site-url: "https://JaumeAmoresDS.github.io/test_nbmodular"
+  description: "Testing nbmodular functionalities in full repo"
+  repo-branch: main
+  repo-url: "https://github.com/JaumeAmoresDS/test_nbmodular"
