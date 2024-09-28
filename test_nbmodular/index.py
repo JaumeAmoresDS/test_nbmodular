@@ -5,7 +5,7 @@ __all__ = ['two_plus_three']
 
 # %% ../nbs/index.ipynb 1
 #@@function two_plus_three
-def two_plus_three(a, b, print, c):
+def two_plus_three():
     a = 2
     b = 3
     c = a+b
