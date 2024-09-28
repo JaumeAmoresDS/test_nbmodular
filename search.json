@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test_nbmodular",
+    "section": "",
+    "text": "Load ipython extension:\n\n\n\n/home/jaumeamllo/workspace/mine/nbmodular/nbmodular/cell2func.py:1458: UserWarning: Name of notebook could not be automatically detected. We will be using `temporary.py` as the name of the python module where the code from the current notebook will be exported to. In order to change this name, run the magic command %set file_name \"&lt;name_of_python_module&gt;.py\".\n  warnings.warn(warning_message)\n\n\n\nsource\n\ntwo_plus_three\n\n two_plus_three ()\n\n\n(a, b, c)\n\n(2, 3, 5)\n\n\n\ntwo_plus_three?\n\nSignature: two_plus_three()\nDocstring: &lt;no docstring&gt;\nFile:      /tmp/ipykernel_10864/458709064.py\nType:      function\n\n\nSmall update",
+    "crumbs": [
+      "test_nbmodular"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
